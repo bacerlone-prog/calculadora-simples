@@ -1,2 +1,12 @@
-# calculadora-simples
-Calculadora simples feita com HTML, CSS e JavaScript.
+# Calculadora Simples
+
+Projeto desenvolvido com HTML, CSS e JavaScript.
+
+## 🚀 Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+
+## 💻 Objetivo
+Praticar lógica de programação e manipulação de DOM.
