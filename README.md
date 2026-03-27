@@ -11,4 +11,4 @@ Projeto desenvolvido com HTML, CSS e JavaScript.
 ## 💻 Objetivo
 Praticar lógica de programação e manipulação de DOM.
 ## 📸 Preview
-![Calculadora](img/calculadora.PNG)
+![Calculadora](img/calculadora.png)
